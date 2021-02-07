@@ -1,0 +1,228 @@
+Description: All image files
+Author: Mike Peterson
+Version: 1.0
+Id: 3ff7a8f7-413f-4c73-8a81-2f2ecbb68dd4
+RecreateDirectories: True
+Targets:
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.ai"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.arw"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.bmp"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.cr2"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.dib"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.eps"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.gif"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.heic"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.heif"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.ind"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.indd"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.indt"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.j2k"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.jfi"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.jfif"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.jif"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.jp2"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.jpe"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.jpeg"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.jpf"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.jpg"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.jpm"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.jpx"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.k25"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.mj2"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.nrw"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.png"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.psd"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.raw"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.svg"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.svgz"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.tif"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.tiff"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.webp"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.ico"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "Thumbs.db"
+    -
+        Name: Image File
+        Category: Images
+        Path: C:\
+        Recursive: True 
+        FileMask: "thumbcache_*.db"
