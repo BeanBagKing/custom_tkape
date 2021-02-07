@@ -1,0 +1,102 @@
+Description: All video files
+Author: Mike Peterson
+Version: 1.0
+Id: 5d323fc7-37cc-434b-b879-d12828a9ea06
+RecreateDirectories: True
+Targets:
+    -
+        Name: Video File
+        Category: Videos
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.webm"
+    -
+        Name: Video File
+        Category: Videos
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.mpg"
+    -
+        Name: Video File
+        Category: Videos
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.mp2"
+    -
+        Name: Video File
+        Category: Videos
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.mpeg"
+    -
+        Name: Video File
+        Category: Videos
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.mpe"
+    -
+        Name: Video File
+        Category: Videos
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.mpv"
+    -
+        Name: Video File
+        Category: Videos
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.ogg"
+    -
+        Name: Video File
+        Category: Videos
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.mp4"
+    -
+        Name: Video File
+        Category: Videos
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.m4p"
+    -
+        Name: Video File
+        Category: Videos
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.m4v"
+    -
+        Name: Video File
+        Category: Videos
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.avi"
+    -
+        Name: Video File
+        Category: Videos
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.wmv"
+    -
+        Name: Video File
+        Category: Videos
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.mov"
+    -
+        Name: Video File
+        Category: Videos
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.qt"
+    -
+        Name: Video File
+        Category: Videos
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.flv"
+    -
+        Name: Video File
+        Category: Videos
+        Path: C:\
+        Recursive: True 
+        FileMask: "*.swf"
