@@ -1,0 +1,20 @@
+Description: Get logs from custom locations
+Author: Mike Peterson
+Version: 1.0 
+Id: Unique GUID here # Required
+RecreateDirectories: True
+Targets:
+    -
+        Name: PowerShell Transcription Logs
+        Category: Logs
+        Path: C:\PSTranscription # Required
+        Recursive: True # Optional
+        FileMask: "PowerShell_transcript.*.txt"
+        AlwaysAddToQueue: True # Optional
+    -
+        Name: Windows Firewall Logs
+        Category: Logs
+        Path: C:\Windows\System32\logfiles\firewall # Required
+        Recursive: True # Optional
+        FileMask: "*_pfirewall.log"
+        AlwaysAddToQueue: True # Optional
