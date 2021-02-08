@@ -1,7 +1,7 @@
 Description: Get logs from custom locations
 Author: Mike Peterson
 Version: 1.0 
-Id: Unique GUID here # Required
+Id: b0eaa680-a19f-4e80-8d51-184c1c44a47c
 RecreateDirectories: True
 Targets:
     -
